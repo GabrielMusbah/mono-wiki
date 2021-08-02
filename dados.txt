@@ -1,1 +1,1 @@
-opa
+[{"nome": "illaoi", "inimigo": "sett"},{"nome": "illaoi", "inimigo": "garen"},{"nome": "illaoi", "inimigo": "darius"}]
